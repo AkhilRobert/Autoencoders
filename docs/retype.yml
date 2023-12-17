@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: build
 branding:
   title: Autoencoders
 footer:

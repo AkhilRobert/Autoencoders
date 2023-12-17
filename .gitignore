@@ -42,7 +42,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
 develop-eggs/
 dist/
 downloads/
@@ -203,5 +202,4 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-.retype
 node_modules
