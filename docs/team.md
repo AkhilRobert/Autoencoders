@@ -17,7 +17,8 @@ order: "-100"
     }
     
     .card {
-        background: rgb(50 50 50/var(--tw-bg-opacity));
+        background: transparent;
+        border: 1px solid rgb(50, 50, 50, 0.7);
         border-radius: 10px;
         padding: 40px;
         display: flex;
@@ -31,6 +32,7 @@ order: "-100"
         height: calc(var(--size) * 5);
         width: calc(var(--size) * 5);
         border-radius: 50%;
+        border: 1px solid rgb(50, 50, 50, 0.7);
     }
 
     .card-main {
@@ -47,7 +49,6 @@ order: "-100"
     .card__name {
         margin-bottom: 0px !important;
         font-size: 20px;
-        color: white;
     }
 
     .card__name-title {
@@ -80,7 +81,7 @@ order: "-100"
             </div>
         </div>
         <a href="https://github.com/AkhilRobert">
-            <img src="/images/github-mark/github-mark-white.png" />
+            <img src="/images/github-mark/neutral.svg" />
         </a>
     </div>
     <div class="card">
@@ -92,7 +93,7 @@ order: "-100"
             </div>
         </div>
         <a href="#">
-            <img src="/images/github-mark/github-mark-white.png" />
+            <img src="/images/github-mark/neutral.svg" />
         </a>
     </div>
     <div class="card">
@@ -104,7 +105,7 @@ order: "-100"
             </div>
         </div>
         <a href="#">
-            <img src="/images/github-mark/github-mark-white.png" />
+            <img src="/images/github-mark/neutral.svg" />
         </a>
     </div>
 </div>
@@ -120,24 +121,24 @@ order: "-100"
         <div class="card-main">
             <img class="profile" src="/images/avatars/deivamani.png" />
             <div>
-                <p class="card__name">Deivamani</p>
+                <p class="card__name">Prof. Dr. Deivamani</p>
                 <p class="card__name-title">Professor</p>
             </div>
         </div>
         <a href="https://github.com/DeivamaniM">
-            <img src="/images/github-mark/github-mark-white.png" />
+            <img src="/images/github-mark/neutral.svg" />
         </a>
     </div>
     <div class="card">
         <div class="card-main">
             <img class="profile" src="/images/avatars/muthumani.png" />
             <div>
-                <p class="card__name">Muthumani</p>
+                <p class="card__name">Mr. Muthumani</p>
                 <p class="card__name-title">Industry Expert</p>
             </div>
         </div>
         <a href="https://github.com/DeivamaniM">
-            <img src="/images/github-mark/github-mark-white.png" />
+            <img src="/images/github-mark/neutral.svg" />
         </a>
     </div>
 </div>
