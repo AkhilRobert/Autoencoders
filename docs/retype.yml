@@ -1,5 +1,6 @@
 input: .
 output: build
+url: gan-hw9r.onrender.com/
 branding:
   title: Autoencoders
 footer:
