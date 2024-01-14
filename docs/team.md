@@ -69,7 +69,7 @@ order: "-100"
 
 :::content-center
 
-<h1>Our Team</h1>
+<h1>Team</h1>
 
 <div class="container-wasfasdf">
     <div class="card">
@@ -92,7 +92,7 @@ order: "-100"
                 <p class="card__name-title">student</p>
             </div>
         </div>
-        <a href="#">
+        <a href="https://github.com/SaiBarathi">
             <img src="/images/github-mark/neutral.svg" />
         </a>
     </div>
@@ -104,7 +104,7 @@ order: "-100"
                 <p class="card__name-title">student</p>
             </div>
         </div>
-        <a href="#">
+        <a href="https://github.com/Pavithrashree">
             <img src="/images/github-mark/neutral.svg" />
         </a>
     </div>
@@ -114,7 +114,7 @@ order: "-100"
 
 :::content-center
 
-<h1 style="margin-top:50px;">Guides</h1>
+<h1 style="margin-top:50px;">Guide</h1>
 
 <div class="container-wasfasdf">
     <div class="card">
@@ -137,7 +137,7 @@ order: "-100"
                 <p class="card__name-title">Industry Expert</p>
             </div>
         </div>
-        <a href="https://github.com/DeivamaniM">
+        <a href="#">
             <img src="/images/github-mark/neutral.svg" />
         </a>
     </div>

@@ -32,5 +32,4 @@ Then, Run the application
 
 ```
 pnpm run start
-
 ```
