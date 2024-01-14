@@ -4,9 +4,11 @@ This autoencoder-based study proposes a novel methodology for noise removal in p
 
 The report of our project can be viewed [here](./files/report.pdf)
 
+The documentation of our project can be viewed [here](https://gan-hw9r.onrender.com/)
+
 ## Demo Video
 
-[![Project Demo](https://i3.ytimg.com/vi/zdIJUlIpWUo/hqdefault.jpg)](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[![Project Demo](https://i3.ytimg.com/vi/zdIJUlIpWUo/hqdefault.jpg)](https://youtu.be/zdIJUlIpWUo)
 
 ## Team Members
 
